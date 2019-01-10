@@ -1,3 +1,8 @@
 def add(first, second):
 resturn first + second
-print(add(2,2)
+
+def subtract(first, second):
+resturn first + second
+
+def multiply(first, second):
+resturn first * second
